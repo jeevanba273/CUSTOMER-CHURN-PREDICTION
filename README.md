@@ -78,6 +78,6 @@ We use the **"WA_Fn-UseC_-Telco-Customer-Churn"** dataset, which contains detail
 
 ### **1️⃣ Clone the repository**
 ```bash
-git clone jeevanba273/CUSTOMER-CHURN-PREDICTION.git
+git clone https://github.com/jeevanba273/CUSTOMER-CHURN-PREDICTION.git
 
 
